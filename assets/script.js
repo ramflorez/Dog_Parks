@@ -1,4 +1,4 @@
-// Mobile Menu Function
+
 const burgerIcon = document.querySelector("#burger");
 const navbarMenu = document.querySelector("#nav-links");
 
